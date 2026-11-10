@@ -1,17 +1,86 @@
-# campus_connect
+# 🎓 CampusConnect – Campus Lost & Found
 
-A new Flutter project.
+CampusConnect is a Flutter-based application designed to help students connect and manage lost and found items within their campus.
 
-## Getting Started
+## 📌 About the Project
 
-This project is a starting point for a Flutter application.
+CampusConnect aims to make it easier for students to report lost belongings and find items that have been misplaced on campus.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- 📱 Flutter-based mobile application
+- 🎓 Campus-focused platform
+- 🔍 Lost and found item management concept
+- 💻 Cross-platform Flutter project structure
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Frontend:** Flutter
+- **Programming Language:** Dart
+- **IDE:** Visual Studio Code
+- **Version Control:** Git
+- **Repository:** GitHub
+
+## 📂 Project Structure
+
+```text
+campus_connect/
+├── android/
+├── ios/
+├── lib/
+│   └── main.dart
+├── linux/
+├── macos/
+├── test/
+├── web/
+├── windows/
+├── pubspec.yaml
+└── README.md
+```
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK
+- Dart SDK
+- Visual Studio Code
+- Git
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/sathwikathagulla26-tech/lost_found.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd lost_found
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the application:
+
+   ```bash
+   flutter run
+   ```
+
+## 📈 Version Control
+
+This project uses Git for version control and GitHub for repository hosting.
+
+## 👨‍💻 Developer
+
+Developed as a Flutter project for a campus lost and found application.
+
+## 📄 License
+
+This project is currently available for educational and development purposes.
